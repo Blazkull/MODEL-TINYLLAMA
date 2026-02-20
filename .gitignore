@@ -1,3 +1,16 @@
+#virtualizacion
+venv/
+
+#files zip
+*.zip
+
+#files model
+model_nurse_final/
+modelo_chat/
+tinyllama_lora/
+tinyllama_medico/
+modelo_medico_final/
+
 # Logs
 logs
 *.log
